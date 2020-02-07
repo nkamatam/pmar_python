@@ -23,7 +23,7 @@ rm -rf *<br>
 git clone https://github.com/nkamatam/pmar_python.git<br>
 cd pmar_python<br>
 git config --global user.email "aparnavodapalli@gmail.com"<br>
-git config --global user.name "Aparna"<br>
+git config --global user.name "Aparna123"<br>
 
 ------------------------------------
 #### Susant's commands <br>
