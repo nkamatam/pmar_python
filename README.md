@@ -16,6 +16,7 @@ git clone https://github.com/nkamatam/pmar_python.git<br>
 cd pmr_python<br>
 git config --global user.email "nkamatam@gmail.com"<br>
 git config --global user.name "KNK"<br>
+cd pmr_python<br>
 
 ------------------------------------
 
