@@ -16,6 +16,7 @@ git clone https://github.com/nkamatam/python_sessions.git<br>
 cd pmr_python<br>
 git config --global user.email "nkamatam@gmail.com"<br>
 git config --global user.name "KNK"<br>
+
 ------------------------------------
 
 ## Closing for the day
