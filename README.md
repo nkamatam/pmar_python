@@ -6,7 +6,7 @@ rm -rf *<br>
 git clone https://github.com/nkamatam/pmar_python <br>
 git config --global user.email "dumb@person.com" <br>
 git config --global user.name "Dumb Person"<br>
-cd pmr_python<br>
+cd pmar_python<br>
 
 ------------------------------------
 #### KNK's commands <br>
