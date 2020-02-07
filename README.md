@@ -12,7 +12,7 @@ cd pmr_python<br>
 #### KNK's commands <br>
 PS1="\w\n$ " <br>
 rm -rf *<br>
-git clone https://github.com/nkamatam/python_sessions.git<br>
+git clone https://github.com/nkamatam/pmar_python.git<br>
 cd pmr_python<br>
 git config --global user.email "nkamatam@gmail.com"<br>
 git config --global user.name "KNK"<br>
