@@ -9,7 +9,7 @@ git config --global user.name "Dumb Person"<br>
 cd pmr_python<br>
 
 ------------------------------------
-KNK's commands
+#### KNK's commands <br>
 PS1="\w\n$ " <br>
 rm -rf *<br>
 git clone https://github.com/nkamatam/python_sessions.git<br>
