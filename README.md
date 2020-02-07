@@ -16,6 +16,24 @@ git clone https://github.com/nkamatam/pmar_python.git<br>
 cd pmar_python<br>
 git config --global user.email "nkamatam@gmail.com"<br>
 git config --global user.name "KNK"<br>
+
+------------------------------------
+#### Ravi's commands <br>
+PS1="\w\n$ " <br>
+rm -rf *<br>
+git clone https://github.com/nkamatam/pmar_python.git<br>
+cd pmar_python<br>
+git config --global user.email "raviteja7190@gmail.com"<br>
+git config --global user.name "ravitejart123"<br>
+------------------------------------
+#### db's commands <br>
+PS1="\w\n$ " <br>
+rm -rf *<br>
+git clone https://github.com/nkamatam/pmar_python.git<br>
+cd pmar_python<br>
+git config --global user.email "dbakthula@gmail.com"<br>
+git config --global user.name "dbakthula"<br>
+
 ------------------------------------
 #### Aparna's commands <br>
 PS1="\w\n$ " <br>
