@@ -54,7 +54,16 @@ git config --global user.name "susant"<br>
 
 
 ------------------------------------
+#### Varun's commands <br>
+PS1="\w\n$ " <br>
+rm -rf *<br>
+git clone https://github.com/nkamatam/pmar_python.git<br>
+cd pmar_python<br>
+git config --global user.email "varungupta199gp@gmail.com"<br>
+git config --global user.name "VarunGithubIn"<br>
 
+
+------------------------------------
 ## Closing for the day
 Save your files first<br>
 
