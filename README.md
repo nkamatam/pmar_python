@@ -95,7 +95,7 @@ git pull<br>
 git push<br>
 
 ---------------------------
-#### KNK's commands <br>
+#### SD's commands <br>
 PS1="\w\n$ " <br>
 rm -rf *<br>
 git clone https://github.com/nkamatam/pmar_python.git<br>
