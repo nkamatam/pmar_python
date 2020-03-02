@@ -94,4 +94,11 @@ git push <br>
 git pull<br>
 git push<br>
 
-
+---------------------------
+#### KNK's commands <br>
+PS1="\w\n$ " <br>
+rm -rf *<br>
+git clone https://github.com/nkamatam/pmar_python.git<br>
+cd pmar_python<br>
+git config --global user.email "deepanfast@gmail.com"<br>
+git config --global user.name "DEEPANSD"<br>
